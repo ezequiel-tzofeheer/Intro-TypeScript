@@ -4,6 +4,6 @@ function multiply(a: number, b: number): number {
 
 console.log(multiply(2, 5));
 
-export {
-    multiply
-}
+// export {
+//     multiply
+// }
